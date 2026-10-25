@@ -5,6 +5,6 @@
            Scanner sc = new Scanner(System.in);
            System.out.print("Escribe tu nombre: ");
            String nombre = sc.nextLine();
-           System.out.println("Buenas " + nombre);
+           System.out.println("Adios");
        }
    }
